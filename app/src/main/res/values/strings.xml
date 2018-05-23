@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">简阅</string>
+    <string name="splash_slogan">看尽生活中的点滴</string>
+    <string name="splash_version">V %1$s</string>
+    <string name="splash_copyright">Copyright &#169; 2015 SimplifyReader All Rights Reserved\nPowered by Obsessive and Chris</string>
+    <string name="drawer_open">DrawerOpen</string>
+    <string name="drawer_close">DrawerClose</string>
+    <string name="common_load_more_end">没有更多了</string>
+</resources>
